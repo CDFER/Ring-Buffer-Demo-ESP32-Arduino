@@ -9,6 +9,8 @@ This project demonstrates the use of circular buffers for efficient data transfe
 
 What is a Circular Buffer?
 -------------------------
+![Circular Buffer Animation](./Circular_Buffer_Animation.gif)
+By MuhannadAjjan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45368479
 A circular buffer is an array of constant length that stores data in a continuous loop. Data is read from the buffer in a FIFO (first in, first out) manner, meaning that the oldest data is read first. The terms "circular buffer" and "ring buffer" are often used interchangeably to refer to this type of data structure.
 
 ### Benefits
