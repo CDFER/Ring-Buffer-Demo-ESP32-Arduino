@@ -28,7 +28,10 @@ The `ringBufferDemo()` function demonstrates the use of circular buffers for eff
 
 <img src="./screenshot.png" alt="Hello, From the Ring Buffer! on a Serial Monitor" width="300">
 
-## Setup
+## Run on WokWi ESP32 Emulator
+https://wokwi.com/projects/396851809084022785
+
+## Local Setup
 1. Open the project in the Arduino IDE.
 2. Connect your ESP32 board to your computer.
 3. Upload the sketch to the board.
